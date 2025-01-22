@@ -1,113 +1,129 @@
-```html
 <div align="center">
   <h1 align="center">JourneyJolt</h1>
   <a href="https://trip-planner-by-satendra.vercel.app/" target="_blank">
-    <img src="https://i.ibb.co/X7N17ps/main.png" style="border-radius: 10px;" alt="Logo" height="250">
+    <img src="https://i.ibb.co/X7N17ps/main.png" alt="Logo" width="" height="250" style="border-radius: 10px;">
   </a>
   <h3>AI-Based Trip Planner</h3>
   <p align="center">
-    Discover personalized itineraries and curated hotel recommendations tailored to your interests. 
-    Simplify travel planning with smart suggestions for top destinations and activities, making every trip easy and enjoyable.
+    Discover personalized itineraries and curated hotel recommendations tailored to your interests. Simplify travel planning with smart suggestions for top destinations and activities, making every trip easy and enjoyable.
   </p>
 </div>
-<br>
-<div align="center">
-  <h2>About The Project</h2>
-</div>
-
-<div class="sampleImages" align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <a href="https://ibb.co/gRX4Bcx">
-    <img src="https://i.ibb.co/X7N17ps/main.png" alt="image" style="border-radius: 10px; height: 170px; border: 0;">
-  </a>
-  <a href="https://ibb.co/f1zjdLn">
-    <img src="https://i.ibb.co/TbHgn5W/form.png" alt="image-2" style="border-radius: 10px; height: 170px; border: 0;">
-  </a>
-  <a href="https://ibb.co/yySg2kP">
-    <img src="https://i.ibb.co/QDkGLrS/trip.png" alt="image-1" style="border-radius: 10px; height: 170px; border: 0;">
-  </a>
-  <a href="https://ibb.co/26srCZS">
-    <img src="https://i.ibb.co/bPcmZwX/all.png" alt="image-3" style="border-radius: 10px; height: 170px; border: 0;">
-  </a>
-</div>
-<br>
-
-<p align="center">
-  <b>JourneyJolt</b> is an AI-based travel planning application designed to make trip planning <i>easier and more efficient</i>. 
-  This project leverages artificial intelligence to analyze user preferences and provide personalized recommendations for 
-  destinations, accommodations, and activities.
-</p>
-
-<p>Key features of JourneyJolt include:</p>
-<ul>
-  <li><b>Personalized Recommendations</b>: The AI suggests ideal destinations, hotels, and activities tailored to the traveler’s preferences.</li>
-  <li><b>Automated Itinerary Generation</b>: The app automatically creates a full itinerary considering factors like travel time and user preferences.</li>
-</ul>
-
-<p>
-  JourneyJolt aims to enhance the travel experience by providing a streamlined, easy-to-use platform for trip planning, designed for both casual travelers and frequent explorers alike.
-</p>
-
-<h2>Built With</h2>
-<p>This project is built with the following major frameworks, libraries, and services:</p>
-<ul>
-  <li>[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=E4E4E4)](https://reactjs.org/)</li>
-  <li>[![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev/)</li>
-  <li>[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)</li>
-  <li>[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)</li>
-  <li>[![Gemini AI](https://img.shields.io/badge/Gemini%20AI-FF5F00?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/blog/topics/ai-machine-learning/introducing-gemini-the-new-ai-powered-google-cloud-platform)</li>
-  <li>[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)</li>
-  <li>[![Auth0](https://img.shields.io/badge/Auth0-000000?style=for-the-badge&logo=auth0&logoColor=E4E4E4)](https://auth0.com/)</li>
-  <li>[![React Hot Toast](https://img.shields.io/badge/React%20Hot%20Toast-FF5733?style=for-the-badge&logo=react&logoColor=black)](https://react-hot-toast.com/)</li>
-</ul>
-
-<h2>Getting Started</h2>
-<p>Setting up JourneyJolt is simple — just configure your <code>.env</code> file, and you're ready to go!</p>
-<p>To get started, follow these instructions to set up the project locally on your machine for development and testing.</p>
-
-<h3>Prerequisites</h3>
-<ul>
-  <li>Node.js <b>(v16.0 or above)</b> - <a href="https://nodejs.org/en" target="_blank">Download Node.js</a></li>
-  <li>VS Code <b>(Code Editor)</b> - <a href="https://visualstudio.microsoft.com/downloads/" target="_blank">Download VS Code</a></li>
-</ul>
-
-<h3>Services & API Keys Setup</h3>
-<p>To fully integrate JourneyJolt, follow the setup steps in each expandable section below:</p>
-
-<!-- Insert collapsible sections here for APIs -->
-
-<h3>Installing Dependencies</h3>
-<ol>
-  <li>Clone the repository:
-    <pre><code>git clone https://github.com/satendra03/trip-planner-by-satendra.git</code></pre>
-  </li>
-  <li>Navigate to the project folder:
-    <pre><code>cd trip-planner-by-satendra</code></pre>
-  </li>
-  <li>Install the dependencies:
-    <pre><code>npm install</code></pre>
-  </li>
-</ol>
-
-<h3>Running the App Locally</h3>
-<ol>
-  <li>Start the development server:
-    <pre><code>npm run dev</code></pre>
-  </li>
-  <li>Visit <a href="http://localhost:5173" target="_blank">http://localhost:5173</a> in your browser.</li>
-</ol>
-
-<h2>Acknowledgments</h2>
-<p>Special thanks to all the libraries and services used in this project, including:</p>
-<ul>
-  <li><a href="https://reactjs.org/">React</a></li>
-  <li><a href="https://cloud.google.com/">Google Cloud</a></li>
-  <li><a href="https://ai.google.dev/">Gemini AI</a></li>
-  <li><a href="https://auth0.com/">Auth0</a></li>
-  <li><a href="https://firebase.google.com/">Firebase</a></li>
-</ul>
 
 ---
 
-<p>Enjoy planning your next trip with <b>JourneyJolt</b>!</p>
+## About The Project
+
+<div align="center">
+  <a href="https://ibb.co/gRX4Bcx"><img src="https://i.ibb.co/X7N17ps/main.png" alt="Main Image" style="border-radius: 10px; height: 170px; border: 0;"></a>
+  <a href="https://ibb.co/f1zjdLn"><img src="https://i.ibb.co/TbHgn5W/form.png" alt="Form Image" style="border-radius: 10px; height: 170px; border: 0;"></a>
+  <a href="https://ibb.co/yySg2kP"><img src="https://i.ibb.co/QDkGLrS/trip.png" alt="Trip Image" style="border-radius: 10px; height: 170px; border: 0;"></a>
+  <a href="https://ibb.co/26srCZS"><img src="https://i.ibb.co/bPcmZwX/all.png" alt="All Features Image" style="border-radius: 10px; height: 170px; border: 0;"></a>
+</div>
+
+**JourneyJolt** is an AI-based travel planning application designed to make trip planning _easier and more efficient_. This project leverages artificial intelligence to analyze user preferences and provide personalized recommendations for destinations, accommodations, and activities.
+
+### Key Features
+- **Personalized Recommendations**: The AI suggests ideal destinations, hotels, and activities tailored to the traveler’s preferences.
+- **Automated Itinerary Generation**: Automatically creates full itineraries considering factors like travel time and user preferences.
+
+JourneyJolt aims to enhance the travel experience for both casual travelers and frequent explorers.
+
+---
+
+## Built With
+
+This project was built using:
+- [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+- [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev/)
+- [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+- [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
+- [![Gemini AI](https://img.shields.io/badge/Gemini%20AI-FF5F00?style=for-the-badge)](https://cloud.google.com/blog/topics/ai-machine-learning/introducing-gemini-the-new-ai-powered-google-cloud-platform)
+- [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
+- [![Auth0](https://img.shields.io/badge/Auth0-000000?style=for-the-badge&logo=auth0&logoColor=white)](https://auth0.com/)
+- [![React Hot Toast](https://img.shields.io/badge/React%20Hot%20Toast-FF5733?style=for-the-badge)](https://react-hot-toast.com/)
+
+---
+
+## Getting Started
+
+To get started with JourneyJolt, follow these steps:
+
+### Prerequisites
+Ensure you have:
+- **Node.js** _(v16.0 or above)_ - [Download Node.js](https://nodejs.org/)
+- **VS Code** _(Code Editor)_ - [Download VS Code](https://code.visualstudio.com/)
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/satendra03/trip-planner-by-satendra.git
+   ```
+2. Navigate to the project folder:
+   ```bash
+   cd trip-planner-by-satendra
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+### Running the App Locally
+
+1. Start the development server:
+   ```bash
+   npm run dev
+   ```
+2. Open your browser and visit `http://localhost:5173`.
+
+---
+
+## Services & API Keys Setup
+
+To fully integrate JourneyJolt with third-party services, configure the required settings as described below.
+
+<details>
+  <summary>Google Cloud</summary>
+  - Set up APIs like Maps JavaScript API, Geocoding API, and others.<br>
+  - Add the API key to your `.env` file:
+    ```env
+    VITE_GOOGLE_MAP_API_KEY="YOUR_GOOGLE_API_KEY"
+    ```
+</details>
+
+<details>
+  <summary>Gemini AI</summary>
+  - Get started for free at [Gemini AI](https://ai.google.dev/).<br>
+  - Add the API key to your `.env` file:
+    ```env
+    VITE_GEMINI_API_KEY="YOUR_GEMINI_API_KEY"
+    ```
+</details>
+
+<details>
+  <summary>Auth0</summary>
+  - Create a free account and configure your app.<br>
+  - Add credentials to your `.env` file:
+    ```env
+    VITE_AUTH0_CLIENT_ID="YOUR_CLIENT_ID"
+    VITE_AUTH0_CLIENT_SECRET="YOUR_CLIENT_SECRET"
+    ```
+</details>
+
+---
+
+## Acknowledgments
+
+Special thanks to:
+- [React](https://reactjs.org/)
+- [Google Cloud](https://cloud.google.com/)
+- [Gemini AI](https://ai.google.dev/)
+- [Auth0](https://auth0.com/)
+- [Firebase](https://firebase.google.com/)
+
+---
+
+Enjoy planning your trips with **JourneyJolt**! 🎉
 ```
 
+This version is formatted to display beautifully on GitHub and includes all the necessary details in Markdown syntax.
