@@ -1,5 +1,3 @@
-Here’s the corrected and formatted HTML content with consistent spacing, alignment, and corrections to minor issues: 
-
 ```html
 <div align="center">
   <h1 align="center">JourneyJolt</h1>
